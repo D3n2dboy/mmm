@@ -81,7 +81,7 @@
     // .header__logo
 
     &__logo {
-        display: flex;
+        display: inline-flex;
 
         &:not(:last-child) {
             margin-right: 10px;
